@@ -27,8 +27,8 @@ $(function()
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}, {
 		artist: "Dig Didzay",
-		name: "Nếu Anh Đi (Cover)",
-		url: "Musics/NeuAnhDi.mp3",
+		name: "NHỮNG BẢN ACOUSTIC COVER HAY NHẤT MỌI THỜI ĐẠI - 60 BÀI HÁT NHẠC TRẺ XƯA 8X 9X HAY NHẤT HIỆN NAY",
+		url: "https://www.youtube.com/watch?v=0lwLgeqaV6M",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
