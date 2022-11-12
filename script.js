@@ -28,7 +28,7 @@ $(function()
 	}, {
 		artist: "Hoài Lâm",
 		name: "Hoa Nở Không Màu - Hoài Lâm - Acoustic Version",
-		url: "Hoa Nở Không Màu - Hoài Lâm - Acoustic Version.mp3",
+		url: "Hoanokhongmau.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
 	}];
 	
